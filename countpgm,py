@@ -1,0 +1,3 @@
+str="12345"
+print(len(str))
+print(len(str(2 ** 100)))
